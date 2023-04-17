@@ -1,0 +1,12 @@
+body{
+  background-color: rgb(11, 26, 26);
+}
+
+.img{
+  justify-content: center;
+}
+
+.card-body{
+  background-color: blueviolet;
+  font-size: medium;
+}
